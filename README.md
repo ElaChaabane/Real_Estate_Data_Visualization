@@ -1,5 +1,6 @@
 # Real_Estate_Data_Visualization
-Visualisation de données statistiques et géographiques
+Visualisation de données statistiques et géographiques:
+
 Ce projet de visualisation de données vise à explorer et analyser des données statistiques et géographiques, en mettant l'accent sur les prix immobiliers aux États-Unis. Le but principal est de fournir une représentation visuelle des données afin de faciliter la compréhension des tendances, des variations et des corrélations entre les différents paramètres.
 Fonctionnalités principales
 1.	Nettoyage des données : Le projet comprend une étape de nettoyage des données afin de préparer les données brutes pour l'analyse. Cela inclut la manipulation des formats de dates, l'extraction de l'année et du mois à partir des enregistrements, et d'autres opérations de nettoyage nécessaires.
